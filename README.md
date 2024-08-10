@@ -1,10 +1,10 @@
 ![logo](https://github.com/shaninishad1999/-shaninishad1999/blob/master/banner-logo.png)
 <h1 align="center">Hi 👋, I'm Shanideval</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Full Stack Java Developer </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaninishad1999&label=Profile%20views&color=0e75b6&style=flat" alt="shaninishad1999" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java Developer Course**
+- 🌱 I’m currently learning **Full Stack Java Developer **
 
 - 📫 How to reach me **shaninishad1999@gmail.com**
 
