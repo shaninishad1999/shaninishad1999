@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shaninishad1999@gmail.com**
 
-- ⚡ Fun fact **I am funnFact😂**
+- ⚡ Fun fact **This fun😂 , can't expore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
