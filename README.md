@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *** MERN Full Stack Developer ***
 
-- 📫 How to reach me **shaninishad1999@gmail.com**
+- 📫 How to reach me ***shaninishad1999@gmail.com***
 
 - ⚡ Fun fact **This fun😂 , can't expore**
 
