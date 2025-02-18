@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *** MERN Full Stack Developer ***
   
-- 👨‍💻 All of my projects are available at [#] ***https://depoyed-my-project.vercel.app/***
+- 👨‍💻 All of my projects are available at [#] ***https://portfolio-eight-amber-35.vercel.app/***
 
 - 📝 I regularly write articles on [Mostly](Mostly)
 
