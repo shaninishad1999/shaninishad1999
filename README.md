@@ -5,7 +5,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaninishad1999&label=Profile%20views&color=0e75b6&style=flat" alt="shaninishad1999" /> </p>
 
-- 🌱 I’m currently learning *** MERN Full Stack Developer ***
+- 🌱 A MERN Full Stack Developer with 10 months of hands-on internship experience, including 6 months at Brandsmashers Tech and 4 months at Aakar Infra Services, specializing in frontend development using React.js and Next.js, and backend development with Node.js, Express, and MongoDB. Proficient in building scalable web solutions with strong debugging and optimization skills. Experienced in using Tailwind CSS and Bootstrap to create responsive and efficient applications. Additionally, well-versed in version control with Git and GitHub. Passionate about delivering high-quality, real-world projects with a strong focus on performance and user experience.
+
+ ***
   
 - 👨‍💻 All of my projects are available at [#] ***https://portfolio-eight-amber-35.vercel.app/***
 
